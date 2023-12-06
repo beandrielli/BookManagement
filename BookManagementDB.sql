@@ -1,9 +1,3 @@
-use master
-go
-
-drop database BOOKMANAGEMENT
-go
-
 CREATE DATABASE BOOKMANAGEMENT
 GO
 
